@@ -20,4 +20,4 @@ Desktop Environment (DE) Compatibility:
 
 - Xcfe
 
-* Credits to [Stephan Raabe(https://gitlab.com/stephan-raabe)] for the dotfiles.
+* Credits to [StephanRaabe](https://gitlab.com/stephan-raabe) for the dotfiles.
