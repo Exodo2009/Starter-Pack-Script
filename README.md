@@ -12,6 +12,7 @@ I will made it compatible with other distros in the future.
 
     - Gurada OS
 
+- Other Distros (Use the slim version).
 ## Desktop Environment (DE) Compatibility:
 
 - KDE
