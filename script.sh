@@ -8,6 +8,7 @@ cd Descargas
 wget https://sdk.lunarg.com/sdk/download/1.3.275.0/linux/vulkansdk-linux-x86_64-1.3.275.0.tar.xz
 tar -xvzf /home/martinhhdz/Descargas/vulkansdk-linux-x86_64-1.3.275.0.tar.xz
 cd /home/martinhhdz/Descargas/1.3.275.0
+chmod +x vulkansdk
 ./vulkansdk
 yay -Syu
 sudo pacman -Syu
@@ -15,6 +16,7 @@ cd
 cd Descargas
 git clone https://gitlab.com/stephan-raabe/dotfiles.git
 cd dotfiles
+chmod +x install.sh
 ./install.sh
 yay -Syu
 sudo pacman -Syu
